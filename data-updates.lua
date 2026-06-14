@@ -1,4 +1,4 @@
-require("__Quality-Plus-Plus__.prototypes.quality")
+require("__private-quality-plus-plus__.prototypes.quality")
 
 local qualities = {"mythical","masterwork","wondrous","artifactual"}
 
@@ -15,5 +15,5 @@ for _, q in ipairs(qualities) do
   end
 end
 
-require("__Quality-Plus-Plus__.prototypes.compatibility.qualitybiolab")
-require("__Quality-Plus-Plus__.prototypes.compatibility.customizable-quality-names")
+require("__private-quality-plus-plus__.prototypes.compatibility.qualitybiolab")
+require("__private-quality-plus-plus__.prototypes.compatibility.customizable-quality-names")

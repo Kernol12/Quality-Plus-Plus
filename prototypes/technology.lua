@@ -1,4 +1,4 @@
-require("__Quality-Plus-Plus__.prototypes.quality")
+require("__private-quality-plus-plus__.prototypes.quality")
 
 local mod_qualities = {"mythical","masterwork","wondrous","artifactual"}
 
